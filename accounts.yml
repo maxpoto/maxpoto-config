@@ -1,13 +1,13 @@
 spring:
   config:
     activate:
-      on-profile: "qa"
+      on-profile: "dev"
 
 build:
   version: "1.0"
 
 accounts:
-  message: "Production profile"
+  message: "Default profile"
   contactDetails:
     name: "Max Potò"
     email: "maxpoto@gmail.com"
