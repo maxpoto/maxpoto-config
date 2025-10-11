@@ -1,1 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "dev"
 
+build:
+  version: "1.0"
+
+accounts:
+  message: "Default profile"
+  contactDetails:
+    name: "Max Potò"
+    email: "maxpoto@gmail.com"
