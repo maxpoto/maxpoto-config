@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "QA profile"
+  contactDetails:
+    name: "Max Poto'"
+    email: "maxpoto@gmail.com"
+  
