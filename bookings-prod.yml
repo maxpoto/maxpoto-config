@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Production profile"
+  contactDetails:
+    name: "Max Poto'"
+    email: "{cipher}7e7fad543555cc5fa7246632e59ebdcc7b6830eb92d2237e6bf799d780208fa0bcd242853c140988ff8fc92ffabdc1ca"
